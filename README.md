@@ -106,6 +106,10 @@ EchoSwift will create a `results` directory (or the directory specified in `out_
 
 After the benchmark completes, you can find CSV files in the output directory. These files contain information about latency, throughput, and TTFT for each test configuration.
 
+
+## Loadgen
+[Docker Image](docker.io/aruntiwary/echoswift-auto:latest)
+
 ## Citation
 
 If you find our resource useful, please cite our paper:
